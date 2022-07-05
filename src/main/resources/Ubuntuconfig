@@ -40,7 +40,7 @@ sudo kill <process_id> (apt process)
 # ****************************************Git configuration + Token :********************************************************** 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
-git Token : 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
+git Token : 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
 git status
 git add . 
 git commit -m 'message'

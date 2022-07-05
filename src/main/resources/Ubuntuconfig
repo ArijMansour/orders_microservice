@@ -40,10 +40,12 @@ sudo kill <process_id> (apt process)
 # ****************************************Git configuration + Token :********************************************************** 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
-git Token : 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
+git Token : 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
 git status
 git add . 
 git commit -m 'message'
+
+first time pushing : git push -f origin master
 git push -u origin master 
 
 pull error : https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting
